@@ -1,0 +1,68 @@
+{
+  "id": 890414795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"1945",
+    "edtf:inception":"1941",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.7325,13.4805,144.7325,13.4805",
+    "geom:latitude":13.4805,
+    "geom:longitude":144.7325,
+    "gn:country":"GU",
+    "gn:fcode":"HSTS",
+    "gn:pop":42500,
+    "iso:country":"GU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "qs:name":"Japanese Occupation 1941-44 WW2",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632163,
+        85633793,
+        85681227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7839109,
+        "gp:id":28718593,
+        "qs:id":741026
+    },
+    "wof:country":"GU",
+    "wof:created":1469051062,
+    "wof:geomhash":"1a351b50bc46a8bd5e95f8e4df913f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633793,
+            "dependency_id":85632163,
+            "locality_id":890414795,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":890414795,
+    "wof:lastmodified":1512001686,
+    "wof:name":"Japanese Occupation 1941-44 WW2",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:population":42500,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.7325,
+    13.4805,
+    144.7325,
+    13.4805
+],
+  "geometry": {"coordinates":[144.73249999999999,13.4805],"type":"Point"}
+}

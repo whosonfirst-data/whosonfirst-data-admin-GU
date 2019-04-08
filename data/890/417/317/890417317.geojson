@@ -1,0 +1,77 @@
+{
+  "id": 890417317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-03-29",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.80109,13.44761,144.80109,13.44761",
+    "geom:latitude":13.44761,
+    "geom:longitude":144.80109,
+    "gn:country":"GU",
+    "gn:fcode":"PPL",
+    "gn:pop":15191,
+    "iso:country":"GU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Manguuao"
+    ],
+    "qs:name":"Mangilao Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:latitude":"13.44888889",
+    "wd:longitude":"144.80027778",
+    "wd:wordcount":496,
+    "wof:belongsto":[
+        85632163,
+        85681227,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7268049,
+        "qs:id":669927,
+        "wd:id":"Q2637935",
+        "wk:page":"Mangilao, Guam"
+    },
+    "wof:country":"GU",
+    "wof:created":1469051195,
+    "wof:geomhash":"a8df8fbd2822ef43bce49595e6f0f0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":890417317,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":890417317,
+    "wof:lastmodified":1512001686,
+    "wof:name":"Mangilao Village",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:population":15191,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[
+        101734571
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.80109,
+    13.44761,
+    144.80109,
+    13.44761
+],
+  "geometry": {"coordinates":[144.80108999999999,13.44761],"type":"Point"}
+}

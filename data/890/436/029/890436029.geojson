@@ -1,0 +1,139 @@
+{
+  "id": 890436029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-03-29",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.8391,13.51777,144.8391,13.51777",
+    "geom:latitude":13.51777,
+    "geom:longitude":144.8391,
+    "gn:country":"GU",
+    "gn:fcode":"PPL",
+    "gn:pop":44943,
+    "iso:country":"GU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u062f\u064a\u062f\u0648"
+    ],
+    "name:baq_x_preferred":[
+        "Dededo"
+    ],
+    "name:cha_x_preferred":[
+        "Dedidu"
+    ],
+    "name:chi_x_preferred":[
+        "\u8fea\u8fea\u591a"
+    ],
+    "name:dut_x_preferred":[
+        "Dededo"
+    ],
+    "name:eng_x_preferred":[
+        "Dededo"
+    ],
+    "name:fre_x_preferred":[
+        "Dededo"
+    ],
+    "name:ger_x_preferred":[
+        "Dededo"
+    ],
+    "name:glg_x_preferred":[
+        "Dededo"
+    ],
+    "name:ita_x_preferred":[
+        "Dededo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30c7\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub370\ub370\ub3c4"
+    ],
+    "name:nno_x_preferred":[
+        "Dededo"
+    ],
+    "name:nob_x_preferred":[
+        "Dededo"
+    ],
+    "name:per_x_preferred":[
+        "\u062f\u062f\u06cc\u062f\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Dededo"
+    ],
+    "name:por_x_preferred":[
+        "Dededo"
+    ],
+    "name:spa_x_preferred":[
+        "Dededo"
+    ],
+    "name:swe_x_preferred":[
+        "Dededo Municipality"
+    ],
+    "name:unk_x_variant":[
+        "Dedidu"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u062f\u06cc\u062f\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Dededo"
+    ],
+    "qs:name":"Dededo Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":145,
+    "wof:belongsto":[
+        85632163,
+        85681227,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4043909,
+        "gp:id":1062828,
+        "qs:id":1047741,
+        "wd:id":"Q1182147",
+        "wk:page":"Simon Sanchez High School"
+    },
+    "wof:country":"GU",
+    "wof:created":1469052091,
+    "wof:geomhash":"54dc29e44328c414fab4cd05fa6f26b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":890436029,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":890436029,
+    "wof:lastmodified":1522883126,
+    "wof:name":"Dededo Village",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:population":44943,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[
+        101734545
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.8391,
+    13.51777,
+    144.8391,
+    13.51777
+],
+  "geometry": {"coordinates":[144.8391,13.51777],"type":"Point"}
+}

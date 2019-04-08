@@ -1,0 +1,133 @@
+{
+  "id": 1125836231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.67226,13.38608,144.67226,13.38608",
+    "geom:latitude":13.38608,
+    "geom:longitude":144.67226,
+    "gn:gn_country":"GU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6084,
+    "gn:population":7500,
+    "iso:country":"GU",
+    "lbl:latitude":13.38608,
+    "lbl:longitude":144.67226,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cha_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:gre_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30ea\u30bf"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u06cc\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Rita"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Rita Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0631\u06cc\u062a\u0627\u060c \u06af\u0648\u0627\u0645"
+    ],
+    "name:war_x_preferred":[
+        "Santa Rita"
+    ],
+    "qs_pg:aaroncc":"GU",
+    "qs_pg:gn_country":"GU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4038554,
+    "qs_pg:gn_pop":6084,
+    "qs_pg:name":"Santa Rita",
+    "qs_pg:name_adm0":"Guam",
+    "qs_pg:name_adm1":"Santa Rita",
+    "qs_pg:photos":663,
+    "qs_pg:photos_1k":134,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":663,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":202001,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424832,
+    "qs_pg:woe_id":15021080,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":23424832,
+    "woe:name_adm0":"Guam",
+    "woe:name_adm1":"Santa Rita",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        85632163,
+        85681227,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4038554,
+        "gp:id":15021080,
+        "qs_pg:id":202001,
+        "wd:id":"Q1780381"
+    },
+    "wof:country":"GU",
+    "wof:created":1497292727,
+    "wof:geomhash":"a648e74dc504200d2802a624ecd35045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1125836231,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":1125836231,
+    "wof:lastmodified":1553816561,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:population":7500,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.67226,
+    13.38608,
+    144.67226,
+    13.38608
+],
+  "geometry": {"coordinates":[144.67225999999999,13.38608],"type":"Point"}
+}

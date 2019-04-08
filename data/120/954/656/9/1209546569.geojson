@@ -1,0 +1,62 @@
+{
+  "id": 1209546569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.8686,13.49881,144.8686,13.49881",
+    "geom:latitude":13.49881,
+    "geom:longitude":144.8686,
+    "gn:admin1_code":"MA",
+    "gn:asciiname":"Andersen AFB Andy South Housing",
+    "gn:country_code":"GU",
+    "gn:dem":143,
+    "gn:elevation":"145.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7871075,
+    "gn:latitude":13.49881,
+    "gn:longitude":144.8686,
+    "gn:modification_date":"2011-07-05",
+    "gn:name":"Andersen AFB Andy South Housing",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guam",
+    "iso:country":"GU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871075
+    },
+    "wof:country":"GU",
+    "wof:geomhash":"2d08ea359469e4b5fe8eaab3245ee0a7",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632163,
+            "locality_id":1209546569
+        }
+    ],
+    "wof:id":1209546569,
+    "wof:lastmodified":1536283825,
+    "wof:name":"Andersen AFB Andy South Housing",
+    "wof:parent_id":85632163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.8686,
+    13.49881,
+    144.8686,
+    13.49881
+],
+  "geometry": {"coordinates":[144.86859999999999,13.49881],"type":"Point"}
+}

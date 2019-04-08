@@ -1,0 +1,123 @@
+{
+  "id": 1125876909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.65852,13.38855,144.65852,13.38855",
+    "geom:latitude":13.38855,
+    "geom:longitude":144.65852,
+    "gn:gn_country":"GU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4917,
+    "gn:population":5656,
+    "iso:country":"GU",
+    "lbl:latitude":13.38855,
+    "lbl:longitude":144.65852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cha_x_preferred":[
+        "H\u00e5gat"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e9e\u52a0\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Agat"
+    ],
+    "name:eng_x_preferred":[
+        "Agat"
+    ],
+    "name:fre_x_preferred":[
+        "Agat"
+    ],
+    "name:ita_x_preferred":[
+        "Agat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ac\u30c3\u30c8"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u0627\u062a\u060c \u06af\u0627\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Agat"
+    ],
+    "name:por_x_preferred":[
+        "Agat"
+    ],
+    "name:spa_x_preferred":[
+        "Agat"
+    ],
+    "name:swe_x_preferred":[
+        "Agat Municipality"
+    ],
+    "name:unk_x_variant":[
+        "Hagat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0627\u062a\u060c \u06af\u0648\u0627\u0645"
+    ],
+    "name:war_x_preferred":[
+        "Agat"
+    ],
+    "qs_pg:aaroncc":"GU",
+    "qs_pg:gn_country":"GU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4043804,
+    "qs_pg:gn_pop":4917,
+    "qs_pg:name":"Agat Village",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":586256,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632163,
+        85681227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4043804,
+        "qs_pg:id":586256,
+        "wd:id":"Q665845"
+    },
+    "wof:country":"GU",
+    "wof:created":1497294586,
+    "wof:geomhash":"ead02b08705330b11713de79619f0a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "locality_id":1125876909,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":1125876909,
+    "wof:lastmodified":1553816592,
+    "wof:name":"Agat Village",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:population":5656,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.65852,
+    13.38855,
+    144.65852,
+    13.38855
+],
+  "geometry": {"coordinates":[144.65852000000001,13.38855],"type":"Point"}
+}

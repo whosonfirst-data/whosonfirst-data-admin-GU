@@ -1,0 +1,93 @@
+{
+  "id": 890417939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-03-29",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.736,13.481,144.736,13.481",
+    "geom:latitude":13.481,
+    "geom:longitude":144.736,
+    "gn:country":"GU",
+    "gn:fcode":"ISLS",
+    "gn:pop":159358,
+    "iso:country":"GU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":1,
+    "name:eng_x_preferred":[
+        "Mariana Islands"
+    ],
+    "name:eng_x_variant":[
+        "the Marianas",
+        "Ladrone Islands",
+        "San Lazarus archipelago"
+    ],
+    "name:epo_x_preferred":[
+        "Marianoj"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Marianas"
+    ],
+    "name:spa_x_variant":[
+        "Marianas",
+        "Islas de los Ladrones",
+        "Islas de las Velas Latinas",
+        "Jardines",
+        "Las Marianas"
+    ],
+    "name:unk_x_variant":[
+        "Prazeres"
+    ],
+    "qs:name":"Mariana Islands - Guam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632163,
+        85633793,
+        85681227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269450,
+        "gp:id":28718593,
+        "qs:id":617143
+    },
+    "wof:country":"GU",
+    "wof:created":1469051227,
+    "wof:geomhash":"ac4a0dd8139556d05fe8bccdd0811190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633793,
+            "dependency_id":85632163,
+            "locality_id":890417939,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":890417939,
+    "wof:lastmodified":1512001687,
+    "wof:name":"Mariana Islands - Guam",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:population":159358,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.736,
+    13.481,
+    144.736,
+    13.481
+],
+  "geometry": {"coordinates":[144.73599999999999,13.481],"type":"Point"}
+}

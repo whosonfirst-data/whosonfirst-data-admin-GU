@@ -1,0 +1,119 @@
+{
+  "id": 1125943201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.75406,13.46334,144.75406,13.46334",
+    "geom:latitude":13.46334,
+    "geom:longitude":144.75406,
+    "gn:gn_country":"GU",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2592,
+    "gn:population":2853,
+    "iso:country":"GU",
+    "lbl:latitude":13.46334,
+    "lbl:longitude":144.75406,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cha_x_preferred":[
+        "Sinah\u00e5\u00f1a"
+    ],
+    "name:dut_x_preferred":[
+        "Sinajana"
+    ],
+    "name:eng_x_preferred":[
+        "Sinajana"
+    ],
+    "name:fre_x_preferred":[
+        "Sinajana"
+    ],
+    "name:ita_x_preferred":[
+        "Sinajana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ca\u30cf\u30cb\u30e3"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u06cc\u0646\u0627\u062c\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Sinajana"
+    ],
+    "name:spa_x_preferred":[
+        "Sinajana"
+    ],
+    "name:swe_x_preferred":[
+        "Sinajana Village"
+    ],
+    "name:unk_x_variant":[
+        "Sinahanna"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0627\u062c\u0627\u0646\u0627\u060c \u06af\u0648\u0627\u0645"
+    ],
+    "name:war_x_preferred":[
+        "Sinajana"
+    ],
+    "qs_pg:aaroncc":"GU",
+    "qs_pg:gn_country":"GU",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":4038588,
+    "qs_pg:gn_pop":2592,
+    "qs_pg:name":"Sinajana Village",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1047732,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632163,
+        85681227,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4038588,
+        "qs_pg:id":1047732,
+        "wd:id":"Q2482489"
+    },
+    "wof:country":"GU",
+    "wof:created":1497297187,
+    "wof:geomhash":"addf9c6bc9027382d51da546b71aeed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1125943201,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":1125943201,
+    "wof:lastmodified":1514444610,
+    "wof:name":"Sinajana Village",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:population":2853,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.75406,
+    13.46334,
+    144.75406,
+    13.46334
+],
+  "geometry": {"coordinates":[144.75406000000001,13.46334],"type":"Point"}
+}

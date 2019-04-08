@@ -1,0 +1,72 @@
+{
+  "id": 1243207189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.65306,13.43636,144.65306,13.43636",
+    "geom:latitude":13.43636,
+    "geom:longitude":144.65306,
+    "gn:admin1_code":"SR",
+    "gn:asciiname":"Destroyed Sumay Village WW2",
+    "gn:country_code":"GU",
+    "gn:dem":9,
+    "gn:elevation":"2.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":4038608,
+    "gn:latitude":13.43636,
+    "gn:longitude":144.65306,
+    "gn:modification_date":"2011-06-19",
+    "gn:name":"Destroyed Sumay Village WW2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Guam",
+    "iso:country":"GU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Sumay Villagers moved to new Santa Rita Village",
+        "Sumai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632163,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4038608
+    },
+    "wof:country":"GU",
+    "wof:geomhash":"e94c663fd9238b32fcd3037605a54876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":1243207189,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243207189,
+    "wof:lastmodified":1537625391,
+    "wof:name":"Destroyed Sumay Village WW2",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.65306,
+    13.43636,
+    144.65306,
+    13.43636
+],
+  "geometry": {"coordinates":[144.65306000000001,13.43636],"type":"Point"}
+}

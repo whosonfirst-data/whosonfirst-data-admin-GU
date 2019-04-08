@@ -1,0 +1,78 @@
+{
+  "id": 890414143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-03-29",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"144.75802,13.47279,144.75802,13.47279",
+    "geom:latitude":13.47279,
+    "geom:longitude":144.75802,
+    "gn:country":"GU",
+    "gn:fcode":"PPL",
+    "gn:pop":1051,
+    "iso:country":"GU",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Akashi WW2"
+    ],
+    "qs:name":"Hag\u00e5t\u00f1a Village",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:latitude":"13.483333333",
+    "wd:longitude":"144.75",
+    "wd:wordcount":1359,
+    "wof:belongsto":[
+        85632163,
+        85681227,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7874008,
+        "gp:id":15021088,
+        "qs:id":743596,
+        "wd:id":"Q30988",
+        "wk:page":"Hag\u00e5t\u00f1a, Guam"
+    },
+    "wof:country":"GU",
+    "wof:created":1469051034,
+    "wof:geomhash":"535a3670f18414d79b427b41054ccff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632163,
+            "empire_id":136253057,
+            "locality_id":890414143,
+            "region_id":85681227
+        }
+    ],
+    "wof:id":890414143,
+    "wof:lastmodified":1512001685,
+    "wof:name":"Hag\u00e5t\u00f1a Village",
+    "wof:parent_id":85681227,
+    "wof:placetype":"locality",
+    "wof:population":1051,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:superseded_by":[
+        101734549
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    144.75802,
+    13.47279,
+    144.75802,
+    13.47279
+],
+  "geometry": {"coordinates":[144.75801999999999,13.47279],"type":"Point"}
+}
