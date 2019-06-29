@@ -22,13 +22,13 @@
     "name:cha_x_preferred":[
         "Sinah\u00e5\u00f1a"
     ],
-    "name:dut_x_preferred":[
-        "Sinajana"
-    ],
     "name:eng_x_preferred":[
         "Sinajana"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0627\u062c\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Sinajana"
     ],
     "name:ita_x_preferred":[
@@ -37,8 +37,8 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30ca\u30cf\u30cb\u30e3"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0646\u0627\u062c\u0627\u0646\u0627"
+    "name:nld_x_preferred":[
+        "Sinajana"
     ],
     "name:pol_x_preferred":[
         "Sinajana"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125943201,
-    "wof:lastmodified":1514444610,
+    "wof:lastmodified":1561844826,
     "wof:name":"Sinajana Village",
     "wof:parent_id":85681227,
     "wof:placetype":"locality",

@@ -22,13 +22,13 @@
     "name:cha_x_preferred":[
         "Chalan P\u00e5gu-Otdot"
     ],
-    "name:dut_x_preferred":[
-        "Chalan Pago-Ordot"
-    ],
     "name:eng_x_preferred":[
         "Chalan Pago-Ordot"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0644\u0627\u0646 \u067e\u0627\u06af\u0648-\u0627\u0648\u0631\u062f\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
         "Chalan-Pago-Ordot"
     ],
     "name:ita_x_preferred":[
@@ -37,8 +37,8 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30e9\u30f3\u30fb\u30d1\u30b4\u30fb\u30aa\u30eb\u30c9"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u0644\u0627\u0646 \u067e\u0627\u06af\u0648-\u0627\u0648\u0631\u062f\u0648\u062a"
+    "name:nld_x_preferred":[
+        "Chalan Pago-Ordot"
     ],
     "name:pol_x_preferred":[
         "Chalan Pago-Ordot"
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1125876773,
-    "wof:lastmodified":1514444600,
+    "wof:lastmodified":1561844826,
     "wof:name":"Chalan Pago-Ordot Village",
     "wof:parent_id":85681227,
     "wof:placetype":"locality",

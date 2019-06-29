@@ -18,13 +18,13 @@
     "name:cha_x_preferred":[
         "Barig\u00e5da"
     ],
-    "name:dut_x_preferred":[
-        "Barrigada"
-    ],
     "name:eng_x_preferred":[
         "Barrigada"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u06cc\u06af\u0627\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Barrigada"
     ],
     "name:ita_x_preferred":[
@@ -33,8 +33,8 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30ea\u30ac\u30c0"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0631\u06cc\u06af\u0627\u062f\u0627"
+    "name:nld_x_preferred":[
+        "Barrigada"
     ],
     "name:pol_x_preferred":[
         "Barrigada"
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":890436027,
-    "wof:lastmodified":1522883127,
+    "wof:lastmodified":1561844826,
     "wof:name":"Barrigada Village",
     "wof:parent_id":85681227,
     "wof:placetype":"locality",
