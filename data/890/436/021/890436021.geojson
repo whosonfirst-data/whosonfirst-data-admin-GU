@@ -18,16 +18,13 @@
     "name:cha_x_preferred":[
         "Yigu"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u6208"
-    ],
-    "name:dut_x_preferred":[
-        "Yigo"
-    ],
     "name:eng_x_preferred":[
         "Yigo"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062c\u06cc\u06af\u0648"
+    ],
+    "name:fra_x_preferred":[
         "Yigo"
     ],
     "name:ita_x_preferred":[
@@ -36,8 +33,8 @@
     "name:jpn_x_preferred":[
         "\u30b8\u30fc\u30b4"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u06cc\u06af\u0648"
+    "name:nld_x_preferred":[
+        "Yigo"
     ],
     "name:pol_x_preferred":[
         "Yigo"
@@ -53,6 +50,9 @@
     ],
     "name:war_x_preferred":[
         "Yigo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6208"
     ],
     "qs:name":"Yigo Village",
     "qs:photos_9r":0,
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":890436021,
-    "wof:lastmodified":1522883127,
+    "wof:lastmodified":1561844826,
     "wof:name":"Yigo Village",
     "wof:parent_id":85681227,
     "wof:placetype":"locality",
