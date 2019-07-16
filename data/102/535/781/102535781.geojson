@@ -12,6 +12,9 @@
     "iso:country":"GU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "USAF Andersen Air Force Base"
+    ],
     "name:ces_x_preferred":[
         "Andersenova leteck\u00e1 z\u00e1kladna"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:fra_x_preferred":[
         "Andersen Air Force Base"
+    ],
+    "name:fra_x_variant":[
+        "base a\u00e9rienne d'Andersen"
     ],
     "name:ita_x_preferred":[
         "Andersen Air Force Base"
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":102535781,
-    "wof:lastmodified":1561844825,
+    "wof:lastmodified":1563291253,
     "wof:name":"Anderson Air Force Base",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
