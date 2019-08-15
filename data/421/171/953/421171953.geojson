@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TF"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
@@ -79,13 +82,14 @@
         "eng",
         "cha"
     ],
-    "wof:lastmodified":1553626630,
+    "wof:lastmodified":1565907757,
     "wof:name":"Talofofo",
     "wof:parent_id":85632163,
     "wof:placetype":"region",
     "wof:population":3050,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-gu",
+    "wof:shortcode":"TF",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
