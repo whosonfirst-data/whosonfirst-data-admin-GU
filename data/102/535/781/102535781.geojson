@@ -12,6 +12,7 @@
     "iso:country":"GU",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "USAF Andersen Air Force Base"
     ],
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":102535781,
-    "wof:lastmodified":1563291253,
+    "wof:lastmodified":1566643800,
     "wof:name":"Anderson Air Force Base",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
