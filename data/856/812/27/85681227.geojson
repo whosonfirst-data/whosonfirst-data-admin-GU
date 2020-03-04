@@ -123,7 +123,7 @@
     "qs:type":"Admin-1 aggregation",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "uscensus-display-terrestrial-zoom-10"
+        "uscensus"
     ],
     "src:lbl:centroid":"mapshaper",
     "wd:wordcount":8355,
@@ -142,6 +142,9 @@
         "wd:id":"Q16635"
     },
     "wof:country":"GU",
+    "wof:geom_alt":[
+        "uscensus-display-terrestrial-zoom-10"
+    ],
     "wof:geomhash":"d6ed07ec96ced54ec6112044630b7e78",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         "eng",
         "cha"
     ],
-    "wof:lastmodified":1536616805,
+    "wof:lastmodified":1582317863,
     "wof:name":"Guam",
     "wof:parent_id":85632163,
     "wof:placetype":"region",
