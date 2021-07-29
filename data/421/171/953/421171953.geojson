@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Talofofo"
     ],
+    "name:fra_x_preferred":[
+        "Talofofo"
+    ],
     "qs:gn_country":"GU",
     "qs:gn_fcode":"ADM1",
     "qs:gn_id":4038652,
@@ -83,7 +86,7 @@
         "eng",
         "cha"
     ],
-    "wof:lastmodified":1566643801,
+    "wof:lastmodified":1627522161,
     "wof:name":"Talofofo",
     "wof:parent_id":85632163,
     "wof:placetype":"region",
