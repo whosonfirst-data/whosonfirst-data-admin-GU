@@ -6,7 +6,7 @@
     "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.047094,
-    "geom:area_square_m":566367323.184378,
+    "geom:area_square_m":566367323.184086,
     "geom:bbox":"144.624196811,13.2410342472,144.95215905,13.6541201844",
     "geom:latitude":13.443793,
     "geom:longitude":144.771939,
@@ -139,13 +139,14 @@
         "gp:id":23424832,
         "hasc:id":"GU",
         "qs:id":1263220,
+        "uscensus:geoid":"66010",
         "wd:id":"Q16635"
     },
     "wof:country":"GU",
     "wof:geom_alt":[
         "uscensus-display-terrestrial-zoom-10"
     ],
-    "wof:geomhash":"d6ed07ec96ced54ec6112044630b7e78",
+    "wof:geomhash":"7ef29440a5ff5833478d8059fbfa8f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -167,7 +168,7 @@
         "eng",
         "cha"
     ],
-    "wof:lastmodified":1582317863,
+    "wof:lastmodified":1684434498,
     "wof:name":"Guam",
     "wof:parent_id":85632163,
     "wof:placetype":"region",
