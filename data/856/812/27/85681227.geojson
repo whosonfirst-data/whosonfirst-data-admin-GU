@@ -126,6 +126,10 @@
         "uscensus"
     ],
     "src:lbl:centroid":"mapshaper",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
+    "uscensus:population":153836,
+    "uscensus:population_year":2020,
     "wd:wordcount":8355,
     "wof:belongsto":[
         102191583,
@@ -168,10 +172,12 @@
         "eng",
         "cha"
     ],
-    "wof:lastmodified":1684434498,
+    "wof:lastmodified":1684438875,
     "wof:name":"Guam",
     "wof:parent_id":85632163,
     "wof:placetype":"region",
+    "wof:population":153836,
+    "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-gu",
     "wof:superseded_by":[
         85632163
